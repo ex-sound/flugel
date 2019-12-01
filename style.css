@@ -1,17 +1,4 @@
 @charset "utf-8";
 
-a {
-    background-color: coral;
-}
-
-a img {
-    width: 10%;
-}
-
-.google {
-    background-color: grey;
-}
-
-#naver {
-    background-color: green;
+.line {
 }
